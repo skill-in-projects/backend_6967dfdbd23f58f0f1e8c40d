@@ -4,7 +4,7 @@ class TestController
     def initialize(db)
         @db = db
     end
-zxzx
+zxzxs
     def set_search_path
         # Set search_path to public schema (required because isolated role has restricted search_path)
         # Using string concatenation to avoid C# string interpolation issues
